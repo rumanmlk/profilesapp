@@ -31,5 +31,8 @@
     "tsx": "^4.20.5",
     "typescript": "^5.9.2",
     "vite": "^7.1.7"
+  },
+  "overrides": {
+  "@aws-sdk/types": "3.734.0"
   }
 }
